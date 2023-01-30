@@ -1,5 +1,5 @@
 ### Hello! I'm Amanda! 👋 
-Olá! Eu sou a Amanda! Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estusiasta da programação mobile e apaixonada por desenvolvimento Front-End.
+Olá! Eu sou a Amanda! Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 #### My Current Skills 
 
