@@ -15,8 +15,7 @@ Olá! Eu sou a Amanda! Sou estudante de Análise e Desenvolvimento de Sistemas.
 #### I'm Current Learning
 
 <div style="display: inline-block">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
 #### How to reach me
